@@ -1,0 +1,9 @@
+Dlayout V102
+Loai ban: Snapshot nguon goc; giu nguyen ZIP.
+Ngay luu: 2026-10-31
+BuildStatus=NotVerified
+RuntimeStatus=NotVerified
+Targets: AutoCAD2022, AutoCAD2025, Desktop, Gstarcad2027
+Khong sua code, khong build lai.
+
+Khong tim thay changelog rieng; khong suy dien noi dung thay doi.
