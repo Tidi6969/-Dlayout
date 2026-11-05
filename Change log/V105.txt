@@ -1,0 +1,35 @@
+Dlayout V105 — Ghi nhận chủ dự án xác nhận OK và đồng bộ DCAD
+Ngày ghi nhận: 05/11/2026 (Asia/Bangkok)
+Repository: https://github.com/Tidi6969/-Dlayout
+Nhánh: main
+Quy chuẩn: https://github.com/Tidi6969/QuyUoc/blob/main/17_Autoupdate.md (§2.1, §8, §9)
+
+1. Lưu trữ GitHub
+- Phiên bản ZIP mới nhất hiện có: V105.
+- Đường dẫn thực tế: Dlayout-V105.zip tại thư mục gốc.
+- Liên kết: https://github.com/Tidi6969/-Dlayout/blob/main/Dlayout-V105.zip
+- Kích thước: 9.375.720 byte.
+- Git blob SHA: 5a11ee45720f9de88bbedafe96b7233f8b8698bb.
+- Commit upload: de54d481c365df6e6fb919a008e8cd6b83986ade (05/11/2026).
+- Bản V102 vẫn được giữ tại V102/Dlayout-V102.zip (9.405.543 byte, Git blob 31dffe449095d378c408cc5b5f13678436c73602).
+- Không sửa, di chuyển, build, đổi tên, ghi đè hay xóa ZIP V105/V102.
+
+2. Xác nhận của chủ dự án
+- Nguyên văn: “tương tự V105 ok https://github.com/Tidi6969/-Dlayout”.
+- UserReportedWorking=YES cho V105; chủ dự án xác nhận phiên bản này OK.
+- Lời xác nhận không nêu rõ hoạt động build hoặc log build; UserReportedBuild=NotSpecified.
+- Chưa có danh sách CAD host/kịch bản chạy thử riêng cho V105; không tự gán Build PASS, NETLOAD PASS hay Runtime PASS riêng từng host.
+- BuildStatusPerHost=NotVerified; RuntimeStatusPerHost=NotVerified; StandardsStatus=NotVerified.
+- Nội dung ZIP/CRC/SHA256/SDK/source V105: NotVerified trong lần đồng bộ metadata. GitHub path/size/blob đã được kiểm tra.
+- CAD target đã ghi trong hồ sơ V102: AutoCAD 2022, AutoCAD 2025, Desktop, GstarCAD 2027. Đây chỉ là thông tin lịch sử, không phải chứng cứ V105 đã kiểm thử đủ bốn target.
+
+3. Phiên bản chuẩn
+- Baseline mặc định cho lần phát triển tiếp theo: V105. Phải đọc và xác minh source ZIP trước khi sửa.
+- Phiên bản mới mặc định nếu có yêu cầu sửa phần mềm: V106 theo quy tắc max + 1; KHÔNG tạo V106 lần này.
+- Không biết chắc version nguồn đã dùng để tạo V105, không tự khẳng định V104 hay V102.
+
+4. Dữ liệu đồng bộ
+- README.md và Change log/V105.txt tại Tidi6969/-Dlayout.
+- Biên bản: https://github.com/Tidi6969/DCAD/blob/main/Assessments/Dlayout-V105.md
+- Danh mục tổng hợp: https://github.com/Tidi6969/DCAD/blob/main/README.md
+- Chỉ thực hiện đồng bộ thông tin; không sửa mã nguồn hoặc phát hành ZIP mới.
